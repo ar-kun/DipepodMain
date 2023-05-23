@@ -1,0 +1,23 @@
+.div1 {
+    @apply bg-primary;
+}
+
+.div2 {
+    @apply bg-primary/75;
+}
+
+.div3 {
+    @apply bg-primary/75;
+}
+
+.profileDesa {
+    @apply flex;
+}
+
+.perangkatDesa {
+    @apply hidden;
+}
+
+.lembagaDesa {
+    @apply hidden;
+}
